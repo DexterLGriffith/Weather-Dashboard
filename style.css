@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+/* jumbotron  */
 .jumbotron {
     display: flex;
     background-color: rgb(171, 109, 230);
@@ -11,6 +12,7 @@
     max-height: 100vh;
 
 }
+/* setting up css for containers for weather  */
 .row .col {
     height: 200px;  
 }
@@ -29,6 +31,9 @@
     border: solid;
     border-width: 1px;
     width: 50%;
+    width: auto;
+    padding: 5px;
+    
 }
 .overall-container {
     display: flex;
@@ -37,9 +42,28 @@
     margin: 0;
     padding: 0; 
 }
+.week-weather-container {
+    display:flex;
+    justify-content: space-evenly;
+
+}
+/* setting up css for search container  */
 .search-container { 
     border:solid;
     border-width:1px;
     margin: 0;
     padding: 0;
 }
+#quick-link-city {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0;
+}
+#quick-link-city li { 
+    margin: 3px; 
+    padding: 0.4em; 
+    font-size: 1.4em; 
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
