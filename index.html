@@ -9,12 +9,37 @@
 </head>
 <body>
     <div class="jumbotron">
-        <h1 class="display">Weather Dashboard</h1>
-        
-      </div>
-    
-
-
+        <h1 class="display">Weather Dashboard</h1>     
+    </div>
+    <!-- DIV class over these two containers? to allow for side by side alignment? search container and weather container -->
+    <div class ="search-container">
+        <label for="city-search">Search for a City:</label> <br>
+        <input type="search" id="city-search" name="city" placeholder="Enter City Name"> <br>
+        <button>Search</button>
+        <!-- popular city search/recent search?  -->
+    </div>
+    <div class="weather-container">
+        <div class="city-today-temp">
+            <div id="location">
+                <p>city name:</p>
+            </div>
+            <div id="date">
+                <p>date:</p>
+            </div>
+            <div id="Temp">
+                <p>temperature:</p>
+            </div>
+            <div id="wind">
+                <p>wind:</p>
+            </div>
+            <div id="humidity">
+                <p>humidity:</p>
+            </div>
+            <div id="UV-index">
+                <p>UV Index:</p>
+            </div>
+        </div>
+    </div>
 
 
 
