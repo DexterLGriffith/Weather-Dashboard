@@ -43,6 +43,6 @@ Dexter Griffith
 6. https://getbootstrap.com/docs/4.4/utilities/spacing/
 7. https://github.com/DexterLGriffith/SMU-class-files/tree/main/05-Third-Party-APIs/01-Activities/25-Ins_Moment-Format
 8. https://github.com/DexterLGriffith/SMU-class-files/tree/main/05-Third-Party-APIs/01-Activities/03-Ins_Click-Events
-9. https://github.com/DexterLGriffith/SMU-class-files/tree/main/03-JavaScript/01-Activities/   19-Ins_Methods
+9. https://github.com/DexterLGriffith/SMU-class-files/tree/main/03-JavaScript/01-Activities/19-Ins_Methods
 10. https://openweathermap.org/current
 11. https://stackoverflow.com/questions/37759473/temperature-conversion-with-openweathermap-api
