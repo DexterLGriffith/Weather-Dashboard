@@ -4,7 +4,8 @@
 /* jumbotron  */
 .jumbotron {
     display: flex;
-    background-color: rgb(171, 109, 230);
+    background-color: purple;
+    background-image: linear-gradient(to right, rgb(96, 96, 247), rgb(82, 1, 82));
     color:white;
     justify-content: center;
     font-size: x-large;
