@@ -8,20 +8,20 @@ Build a Weather Dashboard application from scratch using the skills we have lear
 
 # Tasks Completed
 
-1. Created basic HTML template with a header, main, body and footer sections. 
-2. Created a basic CSS file, and linked it to the index.html file. 
-3. Created a basic script.js file, and linked it to the index.html file. 
-4. Expanded the index.html file to fit the needs for the project, as well as assigned variable names for both html and script files.
-5. Added a container to hold the current searched city's weather data.
-6. Added a container to hold the same searched city's 5 day forecast, with 5 columns.  
-7. Added a jumbotron section for the top of the page, with the title of the application. 
-8. Added a selectable JQuery container, for popular cities as well as a search bar, to look up whatever city the user needed. 
-9. Added a moment function to get the current date for the forecast dates. 
-10. Used openWeatherAPI to retreive the city's weather information to populate on the given sections of the application. 
+    1. Created basic HTML template with a header, main, body and footer sections. 
+    2. Created a basic CSS file, and linked it to the index.html file. 
+    3. Created a basic script.js file, and linked it to the index.html file. 
+    4. Expanded the index.html file to fit the needs for the project, as well as assigned variable names for both html and script files.
+    5. Added a container to hold the current searched city's weather data.
+    6. Added a container to hold the same searched city's 5 day forecast, with 5 columns.  
+    7. Added a jumbotron section for the top of the page, with the title of the application. 
+    8. Added a selectable JQuery container, for popular cities as well as a search bar, to look up whatever city the user needed. 
+    9. Added a moment function to get the current date for the forecast dates. 
+    10. Used openWeatherAPI to retreive the city's weather information to populate on the given sections of the application. 
 
 # Installation
 
-1. Download files from the repository, open the index.html within that folder. 
+    1. Download files from the repository, open the index.html within that folder. 
 
 # Links 
 
